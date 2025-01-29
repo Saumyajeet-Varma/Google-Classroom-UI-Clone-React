@@ -11,7 +11,7 @@ function Header() {
         <header className="flex justify-between items-center px-8 py-3 sticky top-0 bg-white shadow-gray-200 shadow-md">
             <div className='flex gap-5 items-center'>
                 <FontAwesomeIcon icon={faBars} />
-                <GoogleText width={20} />
+                <GoogleText />
                 <h2 className='font-medium text-2xl text-gray-400'>Classroom</h2>
             </div>
             <div className='flex gap-5 items-center'>

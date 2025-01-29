@@ -1,9 +1,9 @@
 /* eslint-disable */
 
-function GoogleText({ width }) {
+function GoogleText() {
     return (
         <div className="translate-y-0.5">
-            <img className={`w-${width}`} src="/GoogleTextLogo.webp" />
+            <img className="w-20" src="/GoogleTextLogo.webp" />
         </div>
     )
 }
